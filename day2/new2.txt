@@ -1,0 +1,130 @@
+INSTRUCTOR DETAILS
+Information	Details
+Name	Moole Muralidhara Reddy
+Email	techworldwithmurali@gmail.com
+Website	https://www.techworldwithmurali.com
+LinkedIn profile	Moole Muralidhara Reddy
+What is Cloud Computing?
+Cloud computing refers to the delivery of computing services—such as servers, storage, databases, networking, software, and more—over the internet ("the cloud").
+It enables users to access and utilize these resources on-demand, rather than maintaining physical hardware or infrastructure locally.
+Benefits of Cloud Computing
+Scalability: Easily scale resources up or down based on demand.
+Cost Efficiency: Pay only for what you use, reducing upfront costs.
+Flexibility: Access resources from anywhere with an internet connection.
+Reliability: Providers often offer high uptime and redundancy.
+Security: Cloud providers invest in robust security measures.
+Types of Cloud Computing
+1. Public Cloud
+Resources are owned and operated by third-party providers, accessible over the internet by the general public.
+
+Example:
+
+Amazon Web Services (AWS): You can rent servers and storage space online.
+Microsoft Azure: You can host websites and store data on Microsoft's servers.
+Google Cloud Platform (GCP): You can use Google's infrastructure to run applications and store data.
+2. Private Cloud
+Dedicated resources operated solely for a single organization.
+
+Example:
+
+Company Data Center: A business has its own servers and storage in-house.
+VMware vSphere: A company uses software to manage its own private servers.
+OpenStack: A company sets up and manages its own cloud infrastructure using open-source tools.
+3. Hybrid Cloud
+Combination of public and private clouds, allowing data and applications to be shared between them.
+
+Types of Cloud Services
+Infrastructure as a Service (IaaS):
+IaaS provides users with access to virtualized computing resources such as servers, storage, and networking, which can be used to build and deploy their own applications and services.
+Users are responsible for managing and maintaining the software and applications they deploy on the infrastructure provided by the IaaS provider.
+Examples:
+
+Amazon Elastic Compute Cloud (EC2):
+
+Provides resizable compute capacity in the cloud.
+Users can launch virtual servers, known as instances, and run applications on them.
+Amazon Simple Storage Service (S3):
+
+Scalable object storage service.
+Users can store and retrieve any amount of data at any time.
+Amazon Elastic Block Store (EBS):
+
+Provides block-level storage volumes for use with EC2 instances.
+Users can create, attach, and manage storage volumes for their virtual servers.
+Amazon Virtual Private Cloud (VPC):
+
+Enables users to launch AWS resources into a virtual network.
+Users can control their virtual networking environment, including selection of IP address range, creation of subnets, and configuration of route tables and gateways.
+IAAS - Tech World with Murali - Moole Muralidhara Reddy.png
+
+Platform as a Service (PaaS):
+PaaS provides users with a platform for building and deploying their own applications without having to worry about managing the underlying infrastructure.
+PaaS providers typically offer pre-configured software, tools, and application programming interfaces (APIs) that make it easier for developers to build, test, and deploy their applications.
+Examples:
+
+AWS Elastic Beanstalk:
+
+A platform that allows users to deploy and manage applications without worrying about the underlying infrastructure.
+Automatically handles the deployment, from capacity provisioning, load balancing, and auto-scaling to application health monitoring.
+AWS Lambda:
+
+A serverless compute service that lets users run code without provisioning or managing servers.
+Users can run code in response to events and automatically scale from a few requests per day to thousands per second.
+Amazon API Gateway:
+
+A fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
+Enables users to create RESTful APIs and WebSocket APIs for real-time two-way communication applications.
+Amazon Elastic Container Service (ECS):
+
+A highly scalable, high-performance container orchestration service that supports Docker containers.
+Allows users to easily run, stop, and manage containers on a cluster of EC2 instances.
+PAAS - Tech World with Murali - Moole Muralidhara Reddy.png
+
+Software as a Service (SaaS):
+SaaS provides users with access to fully managed software applications and services that are hosted by a third-party provider.
+Users typically access SaaS applications through a web browser or mobile app, and the provider is responsible for maintaining and updating the software.
+Examples:
+
+Amazon WorkSpaces:
+
+A managed, secure Desktop-as-a-Service (DaaS) solution.
+Users can provision Windows or Linux desktops in just a few minutes and quickly scale to provide thousands of desktops to workers across the globe.
+Amazon Chime:
+
+A communications service that allows users to meet, chat, and place business calls inside and outside of their organization.
+Provides a secure, scalable, and feature-rich communications platform accessible from any device.
+Amazon WorkDocs:
+
+A secure enterprise document storage and sharing service.
+Allows users to create, edit, and share content, and provides administrative controls and feedback capabilities.
+Amazon WorkMail:
+
+A secure, managed business email and calendaring service.
+Compatible with existing email clients and offers strong security features to protect data. SAAS - Tech World with Murali - Moole Muralidhara Reddy.png
+What is AWS?
+AWS (Amazon Web Services) is a comprehensive, evolving cloud computing platform provided by Amazon.com. It offers a wide range of services including computing power, storage, databases, machine learning, analytics, and more.
+
+Advantages of AWS
+Global Reach: Extensive global infrastructure with regions and availability zones.
+Scalability: Easily scale resources up or down.
+Cost-Effective: Pay-as-you-go pricing model reduces upfront costs.
+Security: Strong security measures and compliance certifications.
+Innovation: Continuous updates and introduction of new services.
+Disadvantages of AWS
+Complexity: Vast array of services can lead to complexity in management.
+Cost Management: Potential for costs to escalate without proper monitoring.
+Data Transfer Fees: Charges for data transfer between regions or to the internet.
+AWS Global Infrastructure
+Regions
+AWS Regions are geographical locations where AWS data centers are clustered. Each region consists of multiple Availability Zones.
+
+Availability Zones
+Availability Zones (AZs) are isolated locations within regions, each containing one or more data centers. They are designed to be independent yet interconnected to provide high availability and fault tolerance.
+
+Lab Session - Creation of an AWS Account
+Creating an AWS account involves:
+
+Go to AWS Website: Navigate to aws.amazon.com and click "Create an AWS Account."
+Provide Information: Enter required details including email, password, and payment information.
+Verify Account: Follow steps to verify your identity and payment method.
+Access Console: Once verified, log in to the AWS Management Console to start using AWS services.
